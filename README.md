@@ -1,2 +1,2 @@
 # lexer
-#analisador léxico simples em C
+analisador léxico simples em C
